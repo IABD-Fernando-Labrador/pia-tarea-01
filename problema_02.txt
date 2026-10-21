@@ -1,0 +1,111 @@
+Tarea de la unidad 1 de PIA
+1 ¿Qué contenidos y resultados de aprendizaje trabajaremos? .............................................. 1
+2 Descripción de la tarea. ......................................................................................................... 2
+3 Recursos necesarios .............................................................................................................. 3
+4 Recomendaciones ................................................................................................................. 3
+5 Indicaciones de entrega ........................................................................................................ 4
+6 ¿Cómo valoramos y puntuamos tu tarea? ............................................................................ 4
+1 ¿Qué contenidos y resultados de aprendizaje trabajaremos?
+Resultados de aprendizaje:
+RA1. Caracteriza lenguajes de programación valorando su idoneidad en el desarrollo de
+inteligencia artificial.
+Contenidos:
+1. Perfil del programador de IA.
+1. Conocimientos técnicos.
+2. Conocimientos matemáticos.
+2. Ecosistema en el ámbito de la inteligencia artificial.
+1. Comunidad de desarrolladores.
+2. Plataformas.
+3. Competiciones y eventos.
+4. Empleo.
+3. Lenguajes de programación.
+1. Octave.
+2. Python.
+3. R.
+4. Java.
+5. Otros.
+2 Descripción de la tarea.
+Apartado 1: Crear cuenta en GitHub y crear un repositorio. (2 puntos)
+Accede a la página web de GitHub y sigue los pasos para registrarte y crearte una cuenta.
+Cuando se te pida que especifiques si eres alumno o profesor, pulsa en la opción que
+aparece en la parte inferior de la pantalla "skip personalization". Tras concluir el proceso
+de registro, crea tu primer repositorio, incluyendo, de momento, un archivo pdf en el
+que añadas, una breve explicación de cómo lo has hecho.
+Apartado 2: Resolver ciertos problemas en Python (2 puntos cada uno)
+Dado que a lo largo del año vamos a tener que trabajar bastante con Python, es
+necesario tener cierta base sobre los aspectos básicos del lenguaje. Para ello se propone
+la realización de los siguientes ejercicios que deberán ser subidos al repositorio GitHub
+del Apartado 1.
+o Problema 1. Procesamiento de una lista de enteros.
+Crea una función que reciba una lista de enteros por parámetro y devuelva otra
+lista, de acuerdo a las siguientes acciones:
+1. Eliminar los números negativos de la lista.
+2. Eliminar los valores que están repetidos, quedándonos con uno de ellos.
+3. Ordenar los números resultantes de menor a mayor.
+Por ejemplo, si le pasara [4, -1, 2, 4, 3, -5, 2], debería retornar [2,3,4].
+o Problema 2. Frecuencia de palabras en un texto.
+Escribe una función que reciba por parámetro una lista de palabras y la ruta a
+un fichero de texto y devuelva un diccionario que muestre cuantas veces
+aparecen las distintas palabras de la lista en el fichero de texto. Haz un pequeño
+programa que la ponga a prueba.
+Requisitos:
+1. Eliminar signos de puntuación y convertir todo a minúsculas.
+2. Usar un diccionario donde la clave sea la palabra y el valor su frecuencia.
+3. Mostrar las palabras y sus frecuencias de forma ordenada por la palabra.
+o Problema 3. Trabajo con conjuntos
+Escribe una función que reciba dos listas de enteros y devuelva un diccionario
+con la siguiente información (ES OBLIGATORIO USAR CONJUNTOS PARA
+CALCULARLOS)
+1. La intersección de ambos conjuntos (elementos comunes).
+2. La unión de ambos conjuntos (todos los elementos sin duplicados).
+3. La diferencia simétrica (elementos que están en uno u otro conjunto,
+pero no en ambos).
+Apartado 3: Consultar competición en plataforma de IA Kaggle. (2 puntos)
+Crea una cuenta en Kaggle y haz las siguientes tareas:
+o Accede a una competición activa.
+o Descarga el dataset usado para esa competición.
+o Sube al repositorio Github del primer apartado, un documento con pantallazos
+de cómo has realizado el proceso y del dataset descargado.
+3 Recursos necesarios
+ Ordenador personal con, al menos, 4 Gigabytes de memoria RAM.
+ Conexión a Internet.
+ Navegador web.
+ Documentación de Github: hƩps://docs.github.com/es
+ Si no tienes conocimientos de Python, puedes consultar cualquier tutorial de los muchos
+que hay en Internet, por ejemplo: hƩps://www.w3schools.com/python/default.asp
+ Puedes ayudarte de herramientas como chatGPT o Copilot para ayudarte a resolver
+aquellas dudas puntuales que te permitan avanzar. Este tipo de herramientas son
+maravillosas bien utilizadas. No tiene mucho sentido, pedirles que te hagan la tarea
+completa, si no entendemos lo que se está haciendo.
+4 Recomendaciones
+ Antes de abordar la tarea:
+o Lee con detenimiento la unidad, consulta los enlaces para saber más, examina
+el material proporcionado por el profesor y aclara las dudas que te surjan con
+él.
+o Realiza el examen online de la unidad, y consulta nuevamente las dudas que te
+surjan. Solo cuando lo tengas todo claro, debes abordar la realización de la tarea.
+ No olvides elaborar los documentos explicativos.
+5 Indicaciones de entrega
+Una vez realizada la tarea, el envío se realizará a través de la plataforma. El archivo se nombrará
+siguiendo las siguientes pautas:
+Apellido1_Apellido2_Nombre_PIA01_Tarea
+Asegúrate que el nombre no contenga la letra ñ, tildes ni caracteres especiales extraños. Así por
+ejemplo la alumna Begoña Sánchez Mañas para la primera unidad del MP de PIA, debería
+nombrar esta tarea como...
+sanchez_manas_begona_PIA01_Tarea
+El contenido del fichero para esta primera tarea debería constar únicamente de un fichero de
+texto con la url del repositorio Github del apartado 1. Ahí dentro, estarán los contenidos de
+los tres apartados.
+6 ¿Cómo valoramos y puntuamos tu tarea?
+Rúbrica de la tarea
+Apartado 1: Se crea una cuenta en Github. 0.75 puntos
+Apartado 1: Se crea un repositorio Github e incluye un documento con breve
+descripción del proceso.
+1.25 puntos
+Apartado 2: Realiza correctamente el problema 1 y lo sube al repositorio Github 2 puntos
+Apartado 2: Realiza correctamente el problema 2 y lo sube al repositorio Github 2 puntos
+Apartado 2: Realiza correctamente el problema 3 y lo sube al repositorio Github 2 puntos
+Apartado 3: Se crea una cuenta en Kaggle 0.75 puntos
+Apartado 3: Accede a una competición y se descarga el dataset, mostrando pantallazos
+de cómo se ha hecho el proceso y subiendo su contenido al repositorio Github
+1.25 puntos
